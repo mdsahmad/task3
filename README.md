@@ -11,4 +11,4 @@ Introduction
 * We are going to implement Domain Name based routing using Ingress
 * We are going to use 2 applications for this.
 
- 
+ ![alt text](https://github.com/mdsahmad/task3/blob/d89c959b387d2bcedaade0d3dabb143e0f98c442/IngressinAKS-SSL.png)
