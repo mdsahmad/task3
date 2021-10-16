@@ -1,4 +1,4 @@
-Introduction
+**Introduction**
 * We are going to create a Static Public IP for Ingress in Azure AKS
 * Associate that Public IP to Ingress Controller during installation.
 * We are going to create a namespace ingress-basic for Ingress Controller where all ingress controller related things will be placed.
